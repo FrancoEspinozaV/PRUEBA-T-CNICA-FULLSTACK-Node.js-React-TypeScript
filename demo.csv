@@ -1,0 +1,16 @@
+id,nombre,edad,trabajo,correo
+1,Juan Pérez,30,Ingeniero,juan@example.com
+2,María García,28,Abogada,maria@example.com
+3,Carlos Martínez,35,Médico,carlos@example.com
+4,Ana López,33,Profesora,ana@example.com
+5,Luis Rodríguez,40,Arquitecto,luis@example.com
+6,Sofía Hernández,25,Diseñadora,sofia@example.com
+7,Pablo González,29,Programador,pablo@example.com
+8,Laura Díaz,31,Psicóloga,laura@example.com
+9,Diego Sánchez,27,Contador,diego@example.com
+10,Valeria Torres,32,Consultora,valeria@example.com
+11,Alejandro Ruiz,36,Escritor,alejandro@example.com
+12,Marta Pérez,26,Investigadora,marta@example.com
+13,Roberto Castro,38,Empresario,roberto@example.com
+14,Verónica Morales,34,Periodista,veronica@example.com
+15,Andrés Fernández,39,Analista,andres@example.com
